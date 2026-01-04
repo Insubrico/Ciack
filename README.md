@@ -31,31 +31,6 @@
 - **Aggiornamenti Automatici**: Controlla nuovi rilasci via GitHub Releases.
 - **Persistenza Dati**: La tua watchlist è salvata localmente usando SharedPreferences.
 
-## 🚀 Come Iniziare
-
-Per eseguire questo progetto localmente:
-
-1.  **Prerequisiti**: Assicurati di avere [Flutter](https://flutter.dev/docs/get-started/install) installato.
-2.  **Clona la repo**:
-    ```bash
-    git clone https://github.com/tuo-username/ciack.git
-    cd ciack
-    ```
-3.  **Installa le dipendenze**:
-    ```bash
-    flutter pub get
-    ```
-4.  **Avvia l'app**:
-    ```bash
-    flutter run
-    ```
-
-## 📱 Screenshot
-
-|         Tema Chiaro         |         Tema Scuro          |
-| :-------------------------: | :-------------------------: |
-| _(Aggiungi screenshot qui)_ | _(Aggiungi screenshot qui)_ |
-
 ## 📦 Stack Tecnologico
 
 - **Framework**: Flutter
@@ -98,31 +73,6 @@ Per eseguire questo progetto localmente:
 
 - **Auto-Updates**: Checks for new releases via GitHub Releases.
 - **Data Persistence**: Your watchlist is saved locally using SharedPreferences.
-
-## 🚀 Getting Started
-
-To run this project locally:
-
-1.  **Prerequisites**: Ensure you have [Flutter](https://flutter.dev/docs/get-started/install) installed.
-2.  **Clone the repo**:
-    ```bash
-    git clone https://github.com/yourusername/ciack.git
-    cd ciack
-    ```
-3.  **Install dependencies**:
-    ```bash
-    flutter pub get
-    ```
-4.  **Run the app**:
-    ```bash
-    flutter run
-    ```
-
-## 📱 Screenshots
-
-|       Light Theme       |       Dark Theme        |
-| :---------------------: | :---------------------: |
-| _(Add screenshot here)_ | _(Add screenshot here)_ |
 
 ## 📦 Tech Stack
 
