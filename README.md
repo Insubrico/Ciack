@@ -1,4 +1,4 @@
-# Ciack - Streaming Watchlist
+# Ciack
 
 **Ciack** è un'applicazione Flutter moderna e curata, progettata per tracciare i tuoi progressi di film e serie TV preferiti attraverso le diverse piattaforme di streaming.
 
@@ -41,7 +41,7 @@
 
 ---
 
-# Ciack - Streaming Watchlist (English Version)
+# Ciack (English Version)
 
 **Ciack** is a modern, beautiful Flutter application designed to verify and track your favorite movies and TV series progress across different streaming platforms.
 
@@ -83,5 +83,6 @@
 - **Typography**: Google Fonts (Outfit)
 
 ---
+
 
 Developed with ❤️ using Flutter.
